@@ -2,3 +2,7 @@ Pri Resolt:
 - Generate 1 Res
 - Generate 2 Res
 - Generate 3 Res
+
+- new generate 1 res
+- new generate 2 res
+
