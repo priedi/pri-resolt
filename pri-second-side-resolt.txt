@@ -1,5 +1,8 @@
 SIDE B PLANNING:
 
 -Download a
+  * req 1
+  * req 2
+  * req 3
 -Download b
 -Download c
