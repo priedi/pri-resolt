@@ -6,6 +6,7 @@ SIDE B PLANNING:
   * req 3
    ^ req 3.1
    ^ req 3.2
+   ^ req 3.3
 -Download ab
 -Download b
   * b-req 1
