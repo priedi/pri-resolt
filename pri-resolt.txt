@@ -4,5 +4,5 @@ Pri Resolt:
 - Generate 3 Res
 
 - new generate 1 res
-- new generate 2 res
+- new generate 3 res
 
