@@ -1,0 +1,6 @@
+Hallo Prihantoedi, i wanna add some text in the resolution list. Iam priedi and these are my resolutions:
+
+My resolutions:
+- generate xa
+- generate xb
+- generate xc
